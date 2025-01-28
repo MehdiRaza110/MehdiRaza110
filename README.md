@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a focus
 
 Here are some of the projects I'm proud of:
 
-- **[E-commerce Platform](https://github.com/MehdiRaza110/e-commerce-platform)**: A fully-featured e-commerce platform built with React.js and Spring Boot.
+- **[E-commerce Platform](https://github.com/MehdiRaza110/ecommerce-frontend-reactjs)**: A fully-featured e-commerce platform built with React.js and Spring Boot.
 - **[Task Management App](https://github.com/MehdiRaza110/task-management-app)**: A task management application to track and manage tasks efficiently.
 
 ## 📝 Blog & Writing
